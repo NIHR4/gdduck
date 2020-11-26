@@ -1,0 +1,9 @@
+﻿  MoreOptions.cpp
+     Creating library C:\Users\Andre\source\repos\duckspin\Release\duckspin.lib and object C:\Users\Andre\source\repos\duckspin\Release\duckspin.exp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  1 of 2376 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  duckspin.vcxproj -> C:\Users\Andre\source\repos\duckspin\Release\duckspin.dll
